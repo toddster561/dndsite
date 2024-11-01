@@ -1,18 +1,8 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-tags:
-  - Category/Event-List
-parent:
-  - Event List
-up:
-  - Event List
-next:
-  - Template - Incident
-RWtopicId: Topic_2
-title: Test Title
+title: Test
 draft: true
+tags:
+  - example-tag
 ---
-# Template - Event List
-## Overview
-Placeholder
-
+ 
+The rest of your content lives here. You can use **Markdown** here :)
